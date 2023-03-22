@@ -1,1 +1,1 @@
-![Book logo](https://github.com/DinuDante/divyanshthreadceremony.github.io/blob/main/Sample%20banner%20-%20Divyansh.png)
+![Book logo](/divyanshthreadceremony.github.io/docs/assets/Sample banner - Divyansh.png)
